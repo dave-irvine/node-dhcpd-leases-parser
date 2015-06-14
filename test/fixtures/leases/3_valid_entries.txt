@@ -1,0 +1,32 @@
+lease 192.168.0.1 {
+  starts 0 2015/06/14 13:29:19;
+  ends 1 2015/06/15 13:29:19;
+  cltt 0 2015/06/14 13:29:19;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet aa:bb:cc:dd:ee:ff;
+  option agent.circuit-id "vlan1";
+}
+
+lease 192.168.0.1 {
+  starts 0 2015/06/14 13:29:19;
+  ends 1 2015/06/15 13:29:19;
+  cltt 0 2015/06/14 13:29:19;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet aa:bb:cc:dd:ee:ff;
+  option agent.circuit-id "vlan1";
+}
+
+lease 192.168.0.1 {
+  starts 0 2015/06/14 13:29:19;
+  ends 1 2015/06/15 13:29:19;
+  cltt 0 2015/06/14 13:29:19;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet aa:bb:cc:dd:ee:ff;
+  option agent.circuit-id "vlan1";
+}

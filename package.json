@@ -1,0 +1,22 @@
+{
+  "name": "node-dhcpd-leases-parser",
+  "version": "0.0.1",
+  "description": "Parse dhcpd config files, including leases and host definitions.",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node ./node_modules/.bin/mocha test/*.js"
+  },
+  "keywords": [
+    "dhcpd",
+    "parser"
+  ],
+  "author": "Dave Irvine <dave@daveirvine.me>",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "~2.2.5",
+    "chai": "~3.0.0"
+  }
+}

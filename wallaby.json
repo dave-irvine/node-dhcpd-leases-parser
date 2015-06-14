@@ -1,0 +1,13 @@
+{
+  "files": [
+    "src/*.js",
+    "test/fixtures/*/*"
+  ],
+  "tests": [
+    "test/*.test.js"
+  ],
+  "testFramework": "mocha@2.1.0",
+  "env": {
+    "type": "node"
+  }
+}

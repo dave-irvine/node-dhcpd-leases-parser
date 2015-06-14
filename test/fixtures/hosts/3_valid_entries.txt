@@ -1,0 +1,17 @@
+host test {
+    option host-name test;
+    hardware ethernet aa:bb:cc:dd:ee:ff;
+    fixed-address 192.168.0.1;
+}
+
+host test {
+    option host-name test;
+    hardware ethernet aa:bb:cc:dd:ee:ff;
+    fixed-address 192.168.0.1;
+}
+
+host test {
+    option host-name test;
+    hardware ethernet aa:bb:cc:dd:ee:ff;
+    fixed-address 192.168.0.1;
+}
